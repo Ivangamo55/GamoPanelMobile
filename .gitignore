@@ -1,0 +1,7 @@
+# Archivos generados que no se versionan.
+.gradle/
+build/
+.kotlin/
+local.properties
+.idea/
+*.iml
